@@ -1,0 +1,3 @@
+Sets up a proper Zend Framework 1.11 installation with modules.
+
+I was tired of finding a working folder structure and after much digging around I got this working. Will be adding PHPUnit files too.
